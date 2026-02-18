@@ -1,5 +1,5 @@
 # Einstaklingsverkefni: Canvas Bulk Downloader
-## Vefforitun 2 2026
+Vefforitun 2 2026
 
 ## Skilyrði og efnistök
 - Vefþjónusta: Canvas GraphQL API fyrir skrár.
