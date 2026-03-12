@@ -1,0 +1,31 @@
+{
+  "name": "canvas-bulk-downloader",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vefforitun 2 2026",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NASPA365/Canvas-Bulk-Downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NASPA365/Canvas-Bulk-Downloader/issues"
+  },
+  "homepage": "https://github.com/NASPA365/Canvas-Bulk-Downloader#readme",
+  "devDependencies": {
+    "eslint": "^10.0.3",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "graphql-request": "^7.4.0"
+  }
+}
