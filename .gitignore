@@ -1,4 +1,5 @@
 #til að fela canvas token
 .env
 
-.node_modules
+.node_modules/*
+node_modules
