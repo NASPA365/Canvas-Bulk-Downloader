@@ -18,3 +18,13 @@ Efnistök: Vefur þar sem þú merkir Canvas skrár og sækir í bulk.
 - 20% Framendi UI.
 - 10% Download.
 - 10% Hýsing á Render.
+
+
+
+
+
+checklist
+
+app.js
+* root/
+-> öll courses 
